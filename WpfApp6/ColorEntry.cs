@@ -9,7 +9,7 @@ namespace WpfApp6
 {
     public class ColorEntry
     {
-        public string ColorCode { get; set; }
+        public string ColorCode { get; set; } 
         public SolidColorBrush Brush { get; set; }
     }
 }
